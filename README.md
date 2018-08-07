@@ -169,7 +169,7 @@ An example web app demonstrates how to upload a picture, use the trained and dep
 Use the [Deploy to IBM Cloud](#deploy-to-ibm-cloud) button **OR** [Run locally](#run-locally).
 
 #### Deploy to IBM Cloud
-[![Deploy to IBM Cloud](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/IBM/powerai-vision-object-detection)
+[![Deploy to IBM Cloud](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/richardjer7/powerai-vision-object-detection)
 
 
 1. Press the above ``Deploy to IBM Cloud`` button and then click on ``Deploy``.
